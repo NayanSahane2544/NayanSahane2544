@@ -108,17 +108,8 @@ Alongside my Cloud and DevOps journey, I have knowledge of **Python, Machine Lea
 
 🔗 [Explore My Repositories](https://github.com/NayanSahane2544?tab=repositories)
 
-### 🔄 3. Jenkins CI/CD & Docker
 
-**Tech Stack:** Jenkins, Docker, Linux, Git, AWS EC2
-
-- Created a Dockerfile for a static website.
-- Practiced CI/CD workflows and automated deployment concepts.
-- Used Git for source control.
-
-🔗 [View Jenkins Repository](https://github.com/NayanSahane2544/jenkins-library)
-
-### 🤖 4. Fruit Recognition System
+### 🤖 3. Fruit Recognition System
 
 **Tech Stack:** Python, TensorFlow/Keras, NumPy
 
@@ -164,7 +155,7 @@ Alongside my Cloud and DevOps journey, I have knowledge of **Python, Machine Lea
   <a href="https://github.com/NayanSahane2544">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/nayan-sahane-b080172bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
