@@ -2,7 +2,7 @@
 
 ### ☁️ Aspiring AWS Cloud & DevOps Engineer | 🤖 AI/ML Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=NayanSahane2544)
+![Profile Views](https://shieldcn.dev/views/user/NayanSahane2544.svg?variant=branded)
 
 I'm a fresher passionate about **AWS Cloud Computing, DevOps, CI/CD Automation, and Infrastructure Monitoring**. I enjoy working on hands-on cloud projects, deploying applications, automating workflows, and exploring modern technologies.
 
